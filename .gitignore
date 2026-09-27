@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment variables (API keys live here — never commit this)
+.env
+
+# OS junk
+.DS_Store
+
+# Node (for later, frontend step)
+node_modules/
